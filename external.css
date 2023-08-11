@@ -1,0 +1,29 @@
+
+        #a{
+            color:white;
+            background-color: pink;
+            text-align: center;
+        }
+        .b{
+            color: white;
+            background-color: rgb(104, 189, 246);
+            text-align: center;
+        }
+        /*box model*/
+        .c{
+            padding:120px;
+            border-style: double;
+            border-color: black;
+            border-width: 12px;
+            margin: 100px;
+            border-radius: 50px;
+            text-align: center;
+            /* box shadow*/
+            box-shadow: 1px 5px 5px 10px black;
+            text-shadow: 4px 10px black;
+            font-size: 100px;
+        }
+        body{
+            background-image: ur;
+
+        }
